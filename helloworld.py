@@ -2,5 +2,7 @@
 
 a = "hello"
 b = "world"
-c = a + " " + b
-print(c)
+c = "all the"
+d = a + " " + c + " " + b
+print(d)
+
